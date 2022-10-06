@@ -17,4 +17,8 @@ Set the type for what you are what you are wanting to download ie wordpress_plug
 
 Feel free to download change or modify this as you need free for use.
 
+## Requirements
+
+You will need to make sure that your server has jq, curl, sed, and zip to use this.
+
 MIT License
